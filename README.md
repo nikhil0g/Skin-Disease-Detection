@@ -85,7 +85,8 @@
 
 ## Jetson Nano 2GB
 
-![Jetson Nano](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![IMG_20220125_115303](https://user-images.githubusercontent.com/89011801/169752907-3b1af9ce-20d1-4cac-a4be-2bac8fe44c86.jpg)
+
 
 
 ## Proposed System
